@@ -24,8 +24,8 @@ e.g. 상대방(컴퓨터)의 수가 425일 때,
 게임을 종료한 후 게임을 다시 시작하거나 완전히 종료할 수 있다.
 
 ##기능목록
-- [ ] 1부터 9까지의 서로 다른 임의의 슈 3개를 생성한다. - NumberGenerator#createRandomNumbers
-- [ ] 컴퓨터의 수(3자리)와 플레이어의 수(3자리)를 비교할수 있다. - Referee#compare()
+- [ x ] 1부터 9까지의 서로 다른 임의의 슈 3개를 생성한다. - NumberGenerator#createRandomNumbers
+- [  ] 컴퓨터의 수(3자리)와 플레이어의 수(3자리)를 비교할수 있다. - Referee#compare()
     - [ ] 몇개의 숫자가 같은지 알수 있다. - Judgment#correctCount()
     - [ ] 특정 자리에 특정 숫자가 있는지 알수있다. - Judgment#hasPlace()
   
